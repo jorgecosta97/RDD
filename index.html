@@ -11,14 +11,52 @@
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
-    <script src="Leaflet.markercluster-1.4.1"></script>
-    <link rel="stylesheet" href="MarkerCluster.css" />
-    <link rel="stylesheet" href="MarkerCluster.Default.css" />
-    <script src="leaflet.markercluster-src.js"></script>
+    <link rel="stylesheet" href="Leaflet.markercluster-1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>
+    
+    <!-- Load Esri Leaflet from CDN -->
+    <script src="https://unpkg.com/esri-leaflet@2.5.1/dist/esri-leaflet.js"
+    integrity="sha512-q7X96AASUF0hol5Ih7AeZpRF6smJS55lcvy+GLWzJfZN+31/BQ8cgNx2FGF+IQSA4z2jHwB20vml+drmooqzzQ=="
+    crossorigin=""></script>
+
+    <!-- Include Leaflet.heat from CDN -->
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+
+    <!-- Load Heatmap Feature Layer from CDN -->
+    <script src="https://unpkg.com/esri-leaflet-heatmap@2.0.0"></script>
+
+    <!-- Heatmap Feature Layer -->
+    <script src="https://unpkg.com/esri-leaflet-heatmap@2.0.0/dist/esri-leaflet-heatmap.js"
+    integrity="sha512-fSJJRfO4PK90PN9jKKBzBZmzlNRsR12QA/CqTTWgfUTfLMF1Nrx5ouOqlpzC8LQIP+Qz0/G4BlHSgxHrCLHuMA=="
+    crossorigin=""></script>
+
+    <link rel="stylesheet" type="text/css"
+    href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+    integrity="sha512-BBToHPBStgMiw0lD4AtkRIZmdndhB6aQbXpX7omcrXeG2PauGBl2lzq2xUZTxaLxYz5IDHlmneCZ1IJ+P3kYtQ=="
+    crossorigin="">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+    integrity="sha512-RLEjtaFGdC4iQMJDbMzim/dOvAu+8Qp9sw7QE4wIMYcg2goVoivzwgSZq9CsIxp4xKAZPKh5J2f2lOko2Ze6FQ=="
+    crossorigin="">
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+    integrity="sha512-MQlyPV+ol2lp4KodaU/Xmrn+txc1TP15pOBF/2Sfre7MRsA/pB4Vy58bEqe9u7a7DczMLtU5wT8n7OblJepKbg=="
+    crossorigin=""></script>
+    <script src="https://unpkg.com/esri-leaflet-cluster@2.1.0/dist/esri-leaflet-cluster.js"
+    integrity="sha512-fEdNFHisleVtEYdLhW4Z2RsR7TN6hLutE/+O4D+skfTNY2rlHm8HOZARPWkdrFFy/+i2KjFxcZAKTUWaVfbV0g=="
+    crossorigin=""></script>
     
     <script src="GeoJSON/RDD.geojson"></script>
     <script src="GeoJSON/Flickr.geojson"></script>
     <script src="GeoJSON/Geocaching.geojson"></script>
+    <script src="GeoJSON/wikiloc/wikiloc_aw.geojson"></script>
+    <script src="GeoJSON/wikiloc/wikiloc_total_aw.geojson"></script>
+    <script src="GeoJSON/wikiloc/pontos_partida.geojson"></script>
+    <script src="GeoJSON/wikiloc/pontos_chegada.geojson"></script>
+    
+    
+
+
+    <link rel="stylesheet" href="styles.css">
 
     <style>
       /* Always set the map height explicitly to define the size of the div
@@ -41,110 +79,15 @@
 
 
   <body>
+
+    <!-- Include Leaflet.heat from CDN -->
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+
+    <!-- Load Heatmap Feature Layer from CDN -->
+    <script src="https://unpkg.com/esri-leaflet-heatmap@2.0.0"></script>
+
     <div id="map">
-      <script>
-        
-window.addEventListener("message", receiveMessage, false);
-      var map = L.map('map', {
-          center: [41.225895, -7.3329045],
-          zoom: 10
-      });
-
-L.control.scale().addTo(map);
-
-
-
-
-var OSM = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'}).addTo(map);
-var Stamen_Terrain = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}{r}.{ext}', {
-	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	subdomains: 'abcd',
-	minZoom: 0,
-	maxZoom: 18,
-	ext: 'png'
-});
-var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-});
-var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
-});
-
-//Dados base------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-var RDD_layer = L.geoJSON(RDD).addTo(map);
-//L.geoJSON(geocaching).addTo(map)
-//L.geoJSON(Flickr).addTo(map)
-//L.geoJSON(wikiloc).addTo(map);
-//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-//Cluster geocaching----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-var markers = L.markerClusterGroup();
-
-var geoJsonLayer = L.geoJson(geocaching, {
-    onEachFeature: function (feature, layer) {
-        layer.bindPopup(feature.properties.address);
-    }
-});
-var ex2 = markers.addLayer(geoJsonLayer);
-
-map.addLayer(markers);
-map.fitBounds(markers.getBounds());
-
-//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-//Cluster Flickr----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-var markers = L.markerClusterGroup();
-
-var geoJsonLayer = L.geoJson(Flickr, {
-    onEachFeature: function (feature, layer) {
-        layer.bindPopup(feature.properties.address);
-    }
-});
-var ex1 = markers.addLayer(geoJsonLayer);
-
-map.addLayer(markers);
-map.fitBounds(markers.getBounds());
-
-//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-function receiveMessage(event) {
-    if (!event.origin.includes('wix')) {
-        return; 
-        }
-    const location = event.data;
-        map.panTo(location);
-        L.marker(location).addTo(map);
-        console.log(event);
-    }
-
-
-//Cluster Flickr----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-var baseMaps = {
-    "Open Street Map": OSM,
-    "Stamen Terrain": Stamen_Terrain,
-    "Esri Imagery": Esri_WorldImagery,
-    "Esri Street Map": Esri_WorldStreetMap
-    
-};
-
-var overlayMaps = {
-    "Região Demarcada do Douro": RDD_layer,
-    "Geocaching": ex2,
-    "Flickr": ex1,
-};
-
-
-L.control.layers(baseMaps, overlayMaps).addTo(map);
-
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-        
-      </script>
+      <script src="websig.js"></script>
     </div>
 
   </body>
