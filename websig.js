@@ -142,7 +142,7 @@ var geocaching = L.esri.Cluster.featureLayer({
     },
     pointToLayer: function (geojson, latlng) {
       var magnitude = (geojson.properties.magnitude);
-      var earthquakeSymbol = 'imagens/geocaching.png';
+      var earthquakeSymbol = 'Imagens/geocaching.png';
       var mapIcon = L.icon({
         iconUrl: earthquakeSymbol,
         iconSize: [20, 20]
@@ -155,7 +155,7 @@ var geocaching = L.esri.Cluster.featureLayer({
 }).addTo(map);
 
 geocaching.bindPopup(function (layer) {
-    return L.Util.template('<a href = https://www.geocaching.com/geocache/{Name} target="_blank"> Abrir </a', layer.feature.properties);
+    return L.Util.template('<a href = https://www.geocaching.com/geocache/{Name} target="_blank"> Imagem Flickr </a', layer.feature.properties);
 });
 
 
@@ -193,7 +193,7 @@ var flickr = L.esri.Cluster.featureLayer({
 }).addTo(map);
 
 flickr.bindPopup(function (layer) {
-    return L.Util.template('<a href = "https://www.flickr.com/photos/{owner}/{id2}" target="_blank"> Abrir </a', layer.feature.properties);
+    return L.Util.template('<a href = "https://www.flickr.com/photos/{owner}/{id2}" target="_blank"> Geocache </a', layer.feature.properties);
   });
 
 
@@ -209,8 +209,7 @@ var heatmap_flickr = L.esri.Heat.featureLayer({
 
 var heatmap_geocaching = L.esri.Heat.featureLayer({
     url: 'https://services5.arcgis.com/AMh9EzyFGgthLT1q/ArcGIS/rest/services/Geocaching/FeatureServer/0',
-    radius: 100
-
+    radius: 50
 });
 
 
