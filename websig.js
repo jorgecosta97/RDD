@@ -155,7 +155,7 @@ var geocaching = L.esri.Cluster.featureLayer({
 }).addTo(map);
 
 geocaching.bindPopup(function (layer) {
-    return L.Util.template('<a href = https://www.geocaching.com/geocache/{Name} target="_blank"> Imagem Flickr </a', layer.feature.properties);
+    return L.Util.template('<a href = https://www.geocaching.com/geocache/{Name} target="_blank"> Geocache </a', layer.feature.properties);
 });
 
 
@@ -193,7 +193,7 @@ var flickr = L.esri.Cluster.featureLayer({
 }).addTo(map);
 
 flickr.bindPopup(function (layer) {
-    return L.Util.template('<a href = "https://www.flickr.com/photos/{owner}/{id2}" target="_blank"> Geocache </a', layer.feature.properties);
+    return L.Util.template('<a href = "https://www.flickr.com/photos/{owner}/{id2}" target="_blank"> Imagem Flickr </a', layer.feature.properties);
   });
 
 
