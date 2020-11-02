@@ -1,0 +1,5405 @@
+pc = {
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.135445999733065,
+          41.078778999651149,
+          392.06100000000151
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "Id" : 0,
+        "Name" : "9/3/14",
+        "ORIG_FID" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1378010004157773,
+          41.071383000325284,
+          410.89900000000489
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "Id" : 0,
+        "Name" : "19-02-2014",
+        "ORIG_FID" : 1
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0957629998625293,
+          41.125057999726948,
+          384.71400000000722
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Pocinho",
+        "ORIG_FID" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1231639999186314,
+          41.130228999868507,
+          145.81900000000314
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "Id" : 0,
+        "Name" : "Foz Coa ao Pocinho",
+        "ORIG_FID" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1448180002504387,
+          41.08095600021926,
+          412.74700000000303
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1237229996166889,
+          41.130070999776876,
+          115.13800000000629
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Pocinho",
+        "ORIG_FID" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0409399996811999,
+          41.139519000201744,
+          403.43300000000454
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "Id" : 0,
+        "Name" : "Açoreira",
+        "ORIG_FID" : 7
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1458480000850955,
+          41.082792000350594,
+          417.66700000000128
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0133930000868645,
+          41.154497000236404,
+          646.79300000000512
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 9
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1886879998512541,
+          41.076849999727756,
+          713.01799999999639
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "Id" : 0,
+        "Name" : "Freixo de Numão",
+        "ORIG_FID" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2102399999759541,
+          41.13473499992034,
+          85.040999999997439
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 11
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2661109999226596,
+          41.189229000218234,
+          647.44100000000617
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "Id" : 0,
+        "Name" : "1 volta",
+        "ORIG_FID" : 13
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.122423999967566,
+          41.130560999890292,
+          142.06299999999464
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "Id" : 0,
+        "Name" : "002 Pocinho - Fx E C - T Monco - Pocinho",
+        "ORIG_FID" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0561149998073347,
+          41.180387999906316,
+          339.74499999999534
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 15
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1430000000499376,
+          41.083269999910613,
+          412.62600000000384
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "Id" : 0,
+        "Name" : "166-Pocinho-Arribas-FCRodrigo",
+        "ORIG_FID" : 18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0415950002090426,
+          41.137574999586604,
+          393.06200000000536
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "Id" : 0,
+        "Name" : "Açoreira",
+        "ORIG_FID" : 21
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0403690003290649,
+          41.139068000088173,
+          399.58599999999569
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "Id" : 0,
+        "Name" : "Açoreira",
+        "ORIG_FID" : 22
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.058232000306532,
+          41.150163000022474,
+          563.06200000000536
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "Id" : 0,
+        "Name" : "Açoreira - Sequeiros",
+        "ORIG_FID" : 23
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2065739999900416,
+          41.111609000055353,
+          325.05100000000675
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "Id" : 0,
+        "Name" : "Aldeia de Mós, pelas amendoeiras em flor",
+        "ORIG_FID" : 26
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409150001271087,
+          41.085994999669538,
+          395.09100000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "Id" : 0,
+        "Name" : "-BTT CITY-",
+        "ORIG_FID" : 28
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1391860004335399,
+          41.083519999748262,
+          458.08400000000256
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "Id" : 0,
+        "Name" : "Caminhada",
+        "ORIG_FID" : 29
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2066239995978663,
+          41.111723999962692,
+          280.2960000000021
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "Id" : 0,
+        "Name" : "Caminhada Amendoeiras 2015",
+        "ORIG_FID" : 30
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.139027000295755,
+          41.083587000139971,
+          404.09500000000116
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "Id" : 0,
+        "Name" : "Caminhada Bombeiros Foz Côa",
+        "ORIG_FID" : 31
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1419179996159414,
+          41.084004999631077,
+          400.07399999999325
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "Id" : 0,
+        "Name" : "Caminhada das Capelas, Vila Nova de Foz Côa",
+        "ORIG_FID" : 32
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1379140002308645,
+          41.139039999696308,
+          195.05100000000675
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "Id" : 0,
+        "Name" : "Caminhada ferrinha!!",
+        "ORIG_FID" : 33
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1117309996858467,
+          41.08027400024497,
+          393.09299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "Id" : 0,
+        "Name" : "Canada do Inferno",
+        "ORIG_FID" : 36
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.140500999921187,
+          41.082590000028517,
+          472.03800000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "Id" : 0,
+        "Name" : "Caninhada",
+        "ORIG_FID" : 37
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1413460002177089,
+          41.08963800039345,
+          463.21799999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "Id" : 0,
+        "Name" : "Carvalhal- foz coa",
+        "ORIG_FID" : 38
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409089998504101,
+          41.086034999715537,
+          395.09200000000419
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "Id" : 0,
+        "Name" : "-CITY BIKE-",
+        "ORIG_FID" : 39
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1090849999727084,
+          41.074935999596732,
+          216.53599999999278
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "Id" : 0,
+        "Name" : "Côa dia 1",
+        "ORIG_FID" : 41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1238380004233477,
+          41.130050999753905,
+          129.32600000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "Id" : 0,
+        "Name" : "Côa até Pocinho, pela Linha do Douro, V.N. Foz Côa",
+        "ORIG_FID" : 42
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1376770000934471,
+          41.139075999557804,
+          205.0460000000021
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "Id" : 0,
+        "Name" : "Cortes da Veiga",
+        "ORIG_FID" : 43
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1328549998582957,
+          41.098177000268379,
+          449.02099999999336
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "Id" : 0,
+        "Name" : "Douro Pocinho-Coa",
+        "ORIG_FID" : 47
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2077880002159986,
+          41.134317000429292,
+          164.05899999999383
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "Id" : 0,
+        "Name" : "Douro Vinhateiro 2012 - 1",
+        "ORIG_FID" : 48
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.9775999997401641,
+          41.183725000008792,
+          655.01900000000023
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor I",
+        "ORIG_FID" : 52
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0573370004021854,
+          41.170179000360633,
+          405.81900000000314
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor II",
+        "ORIG_FID" : 53
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1235020002171154,
+          41.130124000422313,
+          137.42699999999604
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor: (Pocinho)-Torre de Moncorvo-Carviçais-(Fo...",
+        "ORIG_FID" : 55
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1215940003627907,
+          41.130583000005515,
+          202.40799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor - Torre de Moncorvo - Pocinho",
+        "ORIG_FID" : 56
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0510390004494639,
+          41.172278000029735,
+          419.14999999999418
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "Id" : 0,
+        "Name" : "Ecopista Pocinho/ Moncorvo",
+        "ORIG_FID" : 58
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1214679999482087,
+          41.130773999820292,
+          133.98399999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "Id" : 0,
+        "Name" : "Ecovia do Sabor l Torre de Moncorvo a Pocinho",
+        "ORIG_FID" : 59
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1142570001603644,
+          41.132429999744772,
+          152.22699999999895
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "Id" : 0,
+        "Name" : "Em busca das Amendoeiras a partir do Pocinho",
+        "ORIG_FID" : 60
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.9639740000000643,
+          41.204130000299301,
+          610.16700000000128
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "Id" : 0,
+        "Name" : "Entre o Rio Sabor e o Douro",
+        "ORIG_FID" : 61
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2032050002105166,
+          41.056915999573789,
+          652.53399999999965
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "Id" : 0,
+        "Name" : "Etapa3A",
+        "ORIG_FID" : 62
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2079220001001545,
+          41.134767999643543,
+          114.26399999999558
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "Id" : 0,
+        "Name" : "Expedicion Douro. Etapa 2",
+        "ORIG_FID" : 63
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1373969997716813,
+          41.139041999788503,
+          201.04200000000128
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "Id" : 0,
+        "Name" : "Fozcoa",
+        "ORIG_FID" : 65
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1377950001390786,
+          41.138992000180735,
+          195.08299999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "Id" : 0,
+        "Name" : "FOZ CÔA",
+        "ORIG_FID" : 66
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1230679999881659,
+          41.130248999891478,
+          142.44899999999325
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "Id" : 0,
+        "Name" : "Foz Côa à Estação do Pocinho",
+        "ORIG_FID" : 67
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1230679999881659,
+          41.130248999891478,
+          142.46799999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "Id" : 0,
+        "Name" : "Foz Coa ao Pocinho",
+        "ORIG_FID" : 68
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1358240000774913,
+          41.078793000296798,
+          386.06399999999849
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "Id" : 0,
+        "Name" : "Foz coa até as gravuras",
+        "ORIG_FID" : 69
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.172136000076307,
+          41.205704000039646,
+          723.00699999999779
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "Id" : 0,
+        "Name" : "foz coa - cab de mouro",
+        "ORIG_FID" : 71
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0509309999656011,
+          41.153617000124484,
+          855.66999999999825
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "Id" : 0,
+        "Name" : "Foz coa -carvalhal",
+        "ORIG_FID" : 73
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.145986000153755,
+          41.084333000367735,
+          471.07600000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "Id" : 0,
+        "Name" : "Foz Côa Mirandela Foz Côa",
+        "ORIG_FID" : 79
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.14292800032689,
+          41.086466999852234,
+          406.32000000000698
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "Id" : 0,
+        "Name" : "Foz côa - Mogadouro de Range Rover 2014-05-25",
+        "ORIG_FID" : 80
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1482480001450313,
+          41.073448000225085,
+          472.98099999999977
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "Id" : 0,
+        "Name" : "Fozcoa serra da estrela",
+        "ORIG_FID" : 84
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1117830002851861,
+          41.177474999571643,
+          109.52899999999499
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "Id" : 0,
+        "Name" : "Foz do Sabor",
+        "ORIG_FID" : 88
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0010219997654417,
+          41.202034999915384,
+          567.03800000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "Id" : 0,
+        "Name" : "Foz do Sabor - Santa Bárbara",
+        "ORIG_FID" : 89
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1118339999391083,
+          41.177508000194109,
+          107.02499999999418
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "Id" : 0,
+        "Name" : "FozSabor-Moncorvo-Ecopista-Reboredo-Sequeiros-Pocinho-FozSab...",
+        "ORIG_FID" : 90
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2243270002907707,
+          41.069481999894435,
+          548.91899999999441
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "Id" : 0,
+        "Name" : "Freixo de Numão",
+        "ORIG_FID" : 91
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2193059998719491,
+          41.067569999855664,
+          560.58400000000256
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "Id" : 0,
+        "Name" : "Freixo de Numao: 04 ABR 2018 11:42",
+        "ORIG_FID" : 92
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2203019999373055,
+          41.061144000295428,
+          638.75199999999313
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "Id" : 0,
+        "Name" : "II Foz Coa TT Tour 2020",
+        "ORIG_FID" : 98
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1093949998792709,
+          41.17830700016799,
+          164.02899999999499
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "Id" : 0,
+        "Name" : "K Foz do Sabor &amp; Douro",
+        "ORIG_FID" : 99
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1236580002164942,
+          41.130166999707342,
+          144.85199999999895
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "Id" : 0,
+        "Name" : "Linha do Sabor Etapa 4: de Moncorvo a Pocinho",
+        "ORIG_FID" : 103
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1740080000690796,
+          41.179021999865427,
+          805.85899999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "Id" : 0,
+        "Name" : "Lousa, Bragança (Portugal)",
+        "ORIG_FID" : 104
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1377180001854867,
+          41.139075000410969,
+          154.71099999999569
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "Id" : 0,
+        "Name" : "Marcha das amendoeiras 2017",
+        "ORIG_FID" : 106
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0519910002843744,
+          41.175017999581087,
+          403.7609999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "Id" : 0,
+        "Name" : "Moncorvo",
+        "ORIG_FID" : 107
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2037730003236788,
+          41.110968000173102,
+          285.5109999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 109
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2023050000756257,
+          41.110985000057781,
+          291.90799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 110
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2010600002187743,
+          41.112712999705252,
+          320.82700000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 111
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2028079998892167,
+          41.111749000216264,
+          291.27700000000186
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 112
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2027879998662456,
+          41.111814999662556,
+          292.10899999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 113
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2064970000364497,
+          41.111650000147449,
+          282.74300000000221
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "Id" : 0,
+        "Name" : "Mós 2020",
+        "ORIG_FID" : 114
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2065329998980019,
+          41.111694000377895,
+          249.95100000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "Id" : 0,
+        "Name" : "Mós do Douro",
+        "ORIG_FID" : 116
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2053959996256367,
+          41.111351999894907,
+          270.35199999999895
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "Id" : 0,
+        "Name" : "Mós do Douro",
+        "ORIG_FID" : 117
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1377350000701654,
+          41.138881999604678,
+          154.13499999999476
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "Id" : 0,
+        "Name" : "Mós do Douro",
+        "ORIG_FID" : 118
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2236139997862097,
+          41.069685000262609,
+          566.21899999999732
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "Id" : 0,
+        "Name" : "Murça",
+        "ORIG_FID" : 119
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2321949997993329,
+          41.098790999804862,
+          289.95100000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "Id" : 0,
+        "Name" : "Murça - Zimbro II - Moinho de Cubo - Murça",
+        "ORIG_FID" : 121
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1429369998426182,
+          41.084104999745989,
+          470.07499999999709
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "Id" : 0,
+        "Name" : "Passeio bombeiros vnfc",
+        "ORIG_FID" : 126
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1355239997327544,
+          41.078793000296798,
+          391.55000000000291
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "Id" : 0,
+        "Name" : "Passeio BTT Maio",
+        "ORIG_FID" : 127
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1484519996599829,
+          41.073059000272679,
+          414.48600000000442
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "Id" : 0,
+        "Name" : "Passeio de 21 de Maio",
+        "ORIG_FID" : 128
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.145966000130727,
+          41.084160999630456,
+          470.02099999999336
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "Id" : 0,
+        "Name" : "Passeio de mós",
+        "ORIG_FID" : 129
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1988170002043717,
+          41.131060000418756,
+          111.26499999999942
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "Id" : 0,
+        "Name" : "Passeio tt Lousa",
+        "ORIG_FID" : 130
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1376220002550781,
+          41.138962999742716,
+          205.08000000000175
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "Id" : 0,
+        "Name" : "Pelos caminhos da Sra da Veiga - Vila Nova de Foz Côa",
+        "ORIG_FID" : 131
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0750459995731489,
+          41.108126999561421,
+          475.16199999999662
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "Id" : 0,
+        "Name" : "Peredo dos Castelhanos",
+        "ORIG_FID" : 132
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.9822779996299573,
+          41.183026000149823,
+          682.5789999999979
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "Id" : 0,
+        "Name" : "Pocinho /carvalhal",
+        "ORIG_FID" : 138
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1066019996824821,
+          41.075560999640459,
+          151.24700000000303
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "Id" : 0,
+        "Name" : "Pocinho - Coa (carreiros.es)",
+        "ORIG_FID" : 139
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.122423999967566,
+          41.130560999890292,
+          142.03800000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "Id" : 0,
+        "Name" : "Pocinho - Freixo Espada Cinta - Pocinho",
+        "ORIG_FID" : 140
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1088829996506888,
+          41.134851999919931,
+          200.70799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "Id" : 0,
+        "Name" : "Pocinho pela linha de combóio",
+        "ORIG_FID" : 141
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1257400000009739,
+          41.098399999760261,
+          401.7329999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "Id" : 0,
+        "Name" : "Pocinho - Vila Nova de Foz Côa",
+        "ORIG_FID" : 145
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.143023000211258,
+          41.083463999863739,
+          413.61199999999371
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "Id" : 0,
+        "Name" : "Porteo Vila Nova Da Foz Coa (DÍA 8, 4,5km)",
+        "ORIG_FID" : 146
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1230079999191958,
+          41.130293000121924,
+          147.2670000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "Id" : 0,
+        "Name" : "Porteo Vila Nova Da Foz Coa - Pocinho (DÍA 9, 6,5km)",
+        "ORIG_FID" : 147
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1046709996668369,
+          41.082348999706596,
+          149.64900000000489
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "Id" : 0,
+        "Name" : "Quinta das Tulhas",
+        "ORIG_FID" : 150
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1089789995810975,
+          41.135215999618765,
+          128.85899999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "Id" : 0,
+        "Name" : "Quinta das Tulhas - Pocinho",
+        "ORIG_FID" : 152
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0719170000694476,
+          41.162490000113451,
+          468.70799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "Id" : 0,
+        "Name" : "QValbom MStLeocadia dia0",
+        "ORIG_FID" : 154
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1430860004185206,
+          41.089364000348382,
+          412.10700000000361
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "Id" : 0,
+        "Name" : "Raid das tomatas (teste)",
+        "ORIG_FID" : 155
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0855629998325185,
+          41.144731999582177,
+          441.93899999999849
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "Id" : 0,
+        "Name" : "Raid de moncorvo 02/03/2013",
+        "ORIG_FID" : 156
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1356659999858607,
+          41.078932000411555,
+          388.54700000000594
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "Id" : 0,
+        "Name" : "Raid foz coa 2014",
+        "ORIG_FID" : 158
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2626070002128245,
+          41.046909000350126,
+          533.0170000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "Id" : 0,
+        "Name" : "Raid foz coa-alt.(mós sebadelhe)",
+        "ORIG_FID" : 159
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1986040002743721,
+          41.083175000026301,
+          704.83599999999569
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "Id" : 0,
+        "Name" : "Raid TT 2014",
+        "ORIG_FID" : 160
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1112900000334207,
+          41.177160000333799,
+          43.081999999994878
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "Id" : 0,
+        "Name" : "Rio Douro Barragem do Pocinho/Foz do Sabor",
+        "ORIG_FID" : 162
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1096350001550945,
+          41.135030000034533,
+          82.975000000005821
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "Id" : 0,
+        "Name" : "Rio Douro Foz do Coa/Barragem do Pocinho",
+        "ORIG_FID" : 163
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1379839998616603,
+          41.13810199960767,
+          139.0969999999943
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "Id" : 0,
+        "Name" : "Rodeiras de Xisto 2017",
+        "ORIG_FID" : 164
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0410779997498594,
+          41.138756000089359,
+          404.61100000000442
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "Id" : 0,
+        "Name" : "Rota das Amendoeiras - Moncorvo",
+        "ORIG_FID" : 167
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.9665910001744464,
+          41.088703000443161,
+          552.72100000000501
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "Id" : 0,
+        "Name" : "Rota dos castelos 2017 - Dia 1",
+        "ORIG_FID" : 168
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1387900001583375,
+          41.083521999840457,
+          424.08999999999651
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "Id" : 0,
+        "Name" : "Rota dos Castelos e Ruínas de Numão",
+        "ORIG_FID" : 169
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1009580002115058,
+          41.181561000040176,
+          122.90799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "Id" : 0,
+        "Name" : "Rota miradouros",
+        "ORIG_FID" : 170
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1190340001189725,
+          41.132651000043666,
+          141.48200000000361
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "Id" : 0,
+        "Name" : "rota Vila Nova de Foz Coã - Pocinho",
+        "ORIG_FID" : 171
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1282950000141909,
+          41.128291999576163,
+          143.58900000000722
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "Id" : 0,
+        "Name" : "Santo Amaro- Caves Quinta do Pocinho",
+        "ORIG_FID" : 174
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1414400000559226,
+          41.080749999712793,
+          419.07200000000012
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "Id" : 0,
+        "Name" : "SaoGabriel",
+        "ORIG_FID" : 175
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.247047000318787,
+          41.11113799991881,
+          506.3179999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "Id" : 0,
+        "Name" : "Seixas",
+        "ORIG_FID" : 176
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1401580002914216,
+          41.093113999711363,
+          450.02300000000105
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo-douro-pocinho-vila nova de Foz côa",
+        "ORIG_FID" : 179
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0906450003664077,
+          41.059465000209627,
+          380.08999999999651
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo, Guarda (Portugal)",
+        "ORIG_FID" : 180
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1248050000506851,
+          41.129571000101635,
+          141.07600000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "Id" : 0,
+        "Name" : "SradaRibeiraaoPocinho",
+        "ORIG_FID" : 182
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1232819999642629,
+          41.130217000214429,
+          141.08400000000256
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "Id" : 0,
+        "Name" : "SradaRibeiraaoPocinho",
+        "ORIG_FID" : 183
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0471389995651066,
+          41.173357000325382,
+          420.28800000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 186
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0529670003267597,
+          41.176168999599724,
+          445.09900000000198
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 187
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0467889996126019,
+          41.172965000234626,
+          423.74300000000221
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 188
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.01357899967104,
+          41.154595000259121,
+          650.53900000000431
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Felgueiras",
+        "ORIG_FID" : 191
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1122179996609134,
+          41.177611999594149,
+          111.6079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Foz do Sabor",
+        "ORIG_FID" : 192
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0274279998022848,
+          41.19914299964978,
+          418.18899999999849
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Larinho",
+        "ORIG_FID" : 193
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0530420001880998,
+          41.174640000135923,
+          396.47299999999814
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo l Voltinha",
+        "ORIG_FID" : 194
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1202470002987752,
+          41.135852000169734,
+          144.61100000000442
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Pocinho",
+        "ORIG_FID" : 195
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0193200000179559,
+          41.194135999876551,
+          520.13700000000244
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Santa Bárbara",
+        "ORIG_FID" : 197
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0530620002110709,
+          41.176102000107278,
+          356.30499999999302
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "Id" : 0,
+        "Name" : "Torre Moncorvo Larinho entrada ecopista no zimbro",
+        "ORIG_FID" : 198
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.141102999803536,
+          41.085953999577498,
+          405.50800000000163
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "Id" : 0,
+        "Name" : "Treino Estrada Diário 2020",
+        "ORIG_FID" : 201
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1174610004247825,
+          41.18546800034801,
+          231.48500000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "Id" : 0,
+        "Name" : "Trilho das Maias Torre de Moncorvo",
+        "ORIG_FID" : 203
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409740001499244,
+          41.085981999969363,
+          405.05199999999604
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "Id" : 0,
+        "Name" : "Trilho do Vale Forno",
+        "ORIG_FID" : 204
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1378829997006505,
+          41.139117999695998,
+          150.1079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "Id" : 0,
+        "Name" : "Trilho Sra. da Veiga",
+        "ORIG_FID" : 205
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0922380000835687,
+          41.055731999832005,
+          396.04700000000594
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "Id" : 0,
+        "Name" : "TT fozcoa-barca",
+        "ORIG_FID" : 206
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1463699998755601,
+          41.082469999890634,
+          418.05199999999604
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "Id" : 0,
+        "Name" : "TT Fozcoa =» Belmonte =» Fozcoa",
+        "ORIG_FID" : 207
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1119119999387976,
+          41.177502999963508,
+          106.19500000000698
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "Id" : 0,
+        "Name" : "TTPD Douro Superior 01 - Circuito da Vilariça Curto",
+        "ORIG_FID" : 208
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0387549996434586,
+          41.139308000363997,
+          413.43600000000151
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "Id" : 0,
+        "Name" : "TT - P. Manso 1",
+        "ORIG_FID" : 209
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1464799995522981,
+          41.08232999972978,
+          418.04300000000512
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "Id" : 0,
+        "Name" : "TT Valeira",
+        "ORIG_FID" : 210
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1411270000110108,
+          41.087039000149787,
+          465.04200000000128
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "Id" : 0,
+        "Name" : "Vale callibem",
+        "ORIG_FID" : 211
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1410219996654973,
+          41.086011000407382,
+          405.09299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "Id" : 0,
+        "Name" : "Vale Forno/ Caminho do Côa",
+        "ORIG_FID" : 212
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.3287819995895802,
+          41.145198000387438,
+          117.6079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "Id" : 0,
+        "Name" : "Vesúvio - Ferradosa",
+        "ORIG_FID" : 213
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2108920003655044,
+          41.134716999989621,
+          162.87399999999616
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "Id" : 0,
+        "Name" : "Vesuvio - Mós",
+        "ORIG_FID" : 214
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2101209998841682,
+          41.134659000012903,
+          124.11699999999837
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "Id" : 0,
+        "Name" : "Vesúvio - Mós",
+        "ORIG_FID" : 215
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1274089996255725,
+          41.077726999701326,
+          378.94599999999627
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 217
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1350520004494342,
+          41.085336999902665,
+          400.51499999999942
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 218
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1351100004261525,
+          41.085287000294898,
+          368.12699999999313
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 219
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1427619998663658,
+          41.081349000356113,
+          407.85499999999593
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 220
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1427930003965798,
+          41.081359999964093,
+          414.17900000000373
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 221
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1438380000236634,
+          41.08067099966695,
+          401.29899999999907
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 222
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1109159998734413,
+          41.085380000087014,
+          283.51200000000244
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - piknic",
+        "ORIG_FID" : 228
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1238089999853287,
+          41.130016999984605,
+          141.86100000000442
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Pocinho",
+        "ORIG_FID" : 229
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1218610000850617,
+          41.130772999774194,
+          161.13700000000244
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Pocinho",
+        "ORIG_FID" : 230
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1237900000084551,
+          41.130099000168798,
+          127.49300000000221
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Pocinho, Pela Linha do Douro",
+        "ORIG_FID" : 231
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2565139998212089,
+          41.145946999854232,
+          125.22800000000279
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "Id" : 0,
+        "Name" : "Vilarinho da Castanheira - Sra da Ribeira",
+        "ORIG_FID" : 235
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1423750000062114,
+          41.08486999995057,
+          466.13899999999558
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "Id" : 0,
+        "Name" : "VN Foz Coa rondje",
+        "ORIG_FID" : 236
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409629996426816,
+          41.085994999669538,
+          404.99800000000687
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "Id" : 0,
+        "Name" : "Volta à Cidade Treino Diário",
+        "ORIG_FID" : 237
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1377530000008846,
+          41.138900000434717,
+          152.03599999999278
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "Id" : 0,
+        "Name" : "XVI Amendoeiras em Flor",
+        "ORIG_FID" : 238
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0503690001291943,
+          41.047164999565155,
+          147.73399999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "Id" : 0,
+        "Name" : "Rota dos Túneis - Pocinho - Estação Ferroviária de Castelo M...",
+        "ORIG_FID" : 241
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.202694000028032,
+          41.084220999699426,
+          737.89800000000105
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "Id" : 0,
+        "Name" : "Mós do Douro, 736m (Vila Nova de Foz Côa).",
+        "ORIG_FID" : 245
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0531279996574199,
+          41.174349000206234,
+          393.74199999999837
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "Id" : 0,
+        "Name" : "Moncorvo",
+        "ORIG_FID" : 246
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1232720004024372,
+          41.130314000190992,
+          149.60499999999593
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "Id" : 0,
+        "Name" : "Périplo Pelas Antigas Vias Férreas - 2º Dia Linha do Sabor",
+        "ORIG_FID" : 247
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1116949998243513,
+          41.080236000291222,
+          347.82499999999709
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "Id" : 0,
+        "Name" : "Pocinho - museu côa",
+        "ORIG_FID" : 256
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2325900000284378,
+          41.100309999706781,
+          280.28399999999965
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "Id" : 0,
+        "Name" : "Murça - Paseo entre olivos y viñedos",
+        "ORIG_FID" : 257
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1479420004229155,
+          41.08247700021343,
+          418.57700000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "Id" : 0,
+        "Name" : "Passeio TT de Domingo ( pai e filho )",
+        "ORIG_FID" : 258
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1140319996770245,
+          41.149151000118593,
+          199.66899999999441
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Pocinho",
+        "ORIG_FID" : 259
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2184710000365726,
+          41.230329999829678,
+          754.38899999999558
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "Id" : 0,
+        "Name" : "PETM VisitaCA 20150715",
+        "ORIG_FID" : 260
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0474660002556675,
+          41.176992999827121,
+          367.20799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 261
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2320120003535067,
+          41.099912000238646,
+          282.34299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "Id" : 0,
+        "Name" : "Murça do Douro, Vila Nova de Foz Côa",
+        "ORIG_FID" : 262
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1233700004251546,
+          41.130147999730468,
+          143.53900000000431
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "Id" : 0,
+        "Name" : "Lavradores na Ecopista do Sabor",
+        "ORIG_FID" : 264
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1203549998833182,
+          41.078414999952315,
+          339.3179999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "Id" : 0,
+        "Name" : "PT- Vila Nova Da Foz - Castelo Melhor",
+        "ORIG_FID" : 265
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1434069999330632,
+          41.089378000094655,
+          411.1420000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "Id" : 0,
+        "Name" : "2016-09-25 21:26:57",
+        "ORIG_FID" : 267
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0237340003238273,
+          41.082896999796731,
+          573.52099999999336
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "Id" : 0,
+        "Name" : "191005 - TORRE DE MONCORVO",
+        "ORIG_FID" : 269
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0428820002040879,
+          41.087849999777745,
+          483.25599999999395
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "Id" : 0,
+        "Name" : "20151011 Fundo das Vinhas 1 - Urros",
+        "ORIG_FID" : 270
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0433680001330572,
+          41.087717999985784,
+          475.40799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "Id" : 0,
+        "Name" : "20151011 Fundo das Vinhas 2 - Urros",
+        "ORIG_FID" : 271
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0434070001329019,
+          41.089394999979334,
+          445.31399999999849
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "Id" : 0,
+        "Name" : "20151011 Fundo das Vinhas 3 - Urros",
+        "ORIG_FID" : 272
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0247230000663308,
+          41.082968000372944,
+          584.35899999999674
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "Id" : 0,
+        "Name" : "20151011 Fundo das Vinhas - Urros",
+        "ORIG_FID" : 273
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1037539996473242,
+          41.152394000382856,
+          343.69800000000396
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "Id" : 0,
+        "Name" : "Açoreira - Sequeiros",
+        "ORIG_FID" : 274
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1379429997695638,
+          41.082318000075702,
+          473.6079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "Id" : 0,
+        "Name" : "Até a estação do côa e depois só a subir",
+        "ORIG_FID" : 277
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.139998000107596,
+          41.093558000401458,
+          381.88099999999395
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "Id" : 0,
+        "Name" : "B Alegria",
+        "ORIG_FID" : 278
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1352319997569111,
+          41.07880199981247,
+          387.09299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "Id" : 0,
+        "Name" : "BTT Rota do Vinho Mini Maratona",
+        "ORIG_FID" : 279
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1403629998525275,
+          41.093391999940877,
+          445.78200000000652
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "Id" : 0,
+        "Name" : "Cabeça Boa - Vila Nova de Foz Côa",
+        "ORIG_FID" : 281
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1189560001192831,
+          41.132252999676268,
+          192.31600000000617
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "Id" : 0,
+        "Name" : "Ciclovia do Sabor, com saida do Pocinho, passagem por Torre ...",
+        "ORIG_FID" : 282
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409360001961772,
+          41.085939999831169,
+          396.04200000000128
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "Id" : 0,
+        "Name" : "-Circuito Misto 1-",
+        "ORIG_FID" : 283
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1409740001499244,
+          41.085957999761945,
+          397.06299999999464
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "Id" : 0,
+        "Name" : "Circuito Misto 2-",
+        "ORIG_FID" : 284
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2570110002574211,
+          41.14525200017971,
+          103.61800000000221
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "Id" : 0,
+        "Name" : "Coleja",
+        "ORIG_FID" : 285
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2488859996890938,
+          41.146596000105376,
+          100.41400000000431
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "Id" : 0,
+        "Name" : "Coleja - Pinhal do Douro",
+        "ORIG_FID" : 287
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1902580003064145,
+          41.188939000334642,
+          831.62300000000687
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "Id" : 0,
+        "Name" : "CT-TM - 033",
+        "ORIG_FID" : 288
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0023679997833028,
+          41.034809999981576,
+          148.5170000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "Id" : 0,
+        "Name" : "Do Pocinho a Almemdra",
+        "ORIG_FID" : 291
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.3304219996754796,
+          41.144770999582022,
+          116.07700000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "Id" : 0,
+        "Name" : "Douro Agosto09",
+        "ORIG_FID" : 294
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1119340000540205,
+          41.177535999686711,
+          106.49000000000524
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "Id" : 0,
+        "Name" : "Douro Superior 01 - Circuito da Vilariça",
+        "ORIG_FID" : 295
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2895170001094129,
+          41.101843000254291,
+          670.82700000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "Id" : 0,
+        "Name" : "Douro Superior 05A - Murça-Numão(castelo)",
+        "ORIG_FID" : 297
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.12038699956031,
+          41.136833999589442,
+          151.01600000000326
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor",
+        "ORIG_FID" : 299
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1195060003016124,
+          41.137652000439516,
+          200.69700000000012
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "Id" : 0,
+        "Name" : "Ecopista do Sabor (Pocinho - Carviçais)",
+        "ORIG_FID" : 300
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1232640000335437,
+          41.130397000421283,
+          186.36000000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "Id" : 0,
+        "Name" : "Ecopista Pocinho -Torre de Moncorvo",
+        "ORIG_FID" : 301
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1762710001065102,
+          41.169913999831294,
+          834.03200000000652
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "Id" : 0,
+        "Name" : "Estrada Lousa - Castedo",
+        "ORIG_FID" : 302
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1410700000803899,
+          41.086031000430353,
+          395.06200000000536
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "Id" : 0,
+        "Name" : "-ESTRADA TOTAL-",
+        "ORIG_FID" : 303
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0526269999360238,
+          41.173652000439517,
+          407.86999999999534
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "Id" : 0,
+        "Name" : "FCDTA Caminho sem título",
+        "ORIG_FID" : 304
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1360810002379367,
+          41.083171999887952,
+          336.00800000000163
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "Id" : 0,
+        "Name" : "FCDTA Starter 4ª Etapa Museu - Foz Coa",
+        "ORIG_FID" : 305
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1338220003849528,
+          41.079498000432409,
+          429.15099999999802
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "Id" : 0,
+        "Name" : "Foz coa1",
+        "ORIG_FID" : 306
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2480390001996398,
+          41.126302000437022,
+          589.40799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "Id" : 0,
+        "Name" : "Foz coa4",
+        "ORIG_FID" : 307
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.13856799981329,
+          41.071518000255537,
+          411.40799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "Id" : 0,
+        "Name" : "Foz coa-horta vilariça-foz coa",
+        "ORIG_FID" : 310
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.139542999809521,
+          41.098058000176593,
+          403.94100000000617
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "Id" : 0,
+        "Name" : "Foz coa-Mirandela-Foz coa 27/",
+        "ORIG_FID" : 311
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1425190003515127,
+          41.081599000193762,
+          417.91800000000512
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "Id" : 0,
+        "Name" : "Foz Côa / Quinta da Terrincha / Foz do Sabor / Foz Côa",
+        "ORIG_FID" : 312
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1430260003496073,
+          41.081390999594987,
+          416.12200000000303
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "Id" : 0,
+        "Name" : "FOZ CÔA / TERMAS DE LONGROIVA",
+        "ORIG_FID" : 313
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0520070001228987,
+          41.172203000168395,
+          429.60300000000279
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "Id" : 0,
+        "Name" : "Foz coa - Torre Moncorvo",
+        "ORIG_FID" : 314
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1047869996202735,
+          41.083105000395506,
+          132.95200000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "Id" : 0,
+        "Name" : "Foz Côa vila - estação",
+        "ORIG_FID" : 315
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1116500004471277,
+          41.177921000353933,
+          113.625
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "Id" : 0,
+        "Name" : "Foz do Sabor",
+        "ORIG_FID" : 317
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.112032000076681,
+          41.177176000172324,
+          154.01900000000023
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "Id" : 0,
+        "Name" : "Foz do Sabor",
+        "ORIG_FID" : 318
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1332789996260999,
+          41.160179999707282,
+          163.02999999999884
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "Id" : 0,
+        "Name" : "Foz do Sabor2",
+        "ORIG_FID" : 319
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2194510002634047,
+          41.068139000014867,
+          554.1079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "Id" : 0,
+        "Name" : "Freixo de Numão",
+        "ORIG_FID" : 323
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1196149999322529,
+          41.133029000388092,
+          133.92600000000675
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "Id" : 0,
+        "Name" : "GR36 - Dia 6 - Torre de Moncorvo - Pocinho",
+        "ORIG_FID" : 324
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1150269996962265,
+          41.132024999953842,
+          195.15799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "Id" : 0,
+        "Name" : "Jjjjj",
+        "ORIG_FID" : 326
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1341850000376894,
+          41.079095999880565,
+          386.06699999999546
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "Id" : 0,
+        "Name" : "Lameira",
+        "ORIG_FID" : 327
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1782240002373783,
+          41.16552699987119,
+          808.73500000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "Id" : 0,
+        "Name" : "Lousa - Carvalho de Egas - Carrazeda de Ansiães - Vilarinho ...",
+        "ORIG_FID" : 329
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1782870004446409,
+          41.164855000358045,
+          801.94800000000396
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "Id" : 0,
+        "Name" : "Lousa - Castedo - Lousa",
+        "ORIG_FID" : 330
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1771959995956536,
+          41.164038999600223,
+          787.99000000000524
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "Id" : 0,
+        "Name" : "Lousa - Fonte Longa - Sª da Ribeira - Lousa",
+        "ORIG_FID" : 331
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1683619996065318,
+          41.231479999802218,
+          648.44400000000314
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "Id" : 0,
+        "Name" : "Lousa - Horta da Vilariça - Alfandêga da Fe - Cerejais - Alf...",
+        "ORIG_FID" : 332
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1773209999641381,
+          41.166713999751323,
+          814.48799999999756
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "Id" : 0,
+        "Name" : "Lousa - Horta da Vilariça - Moncorvo - Foz do Sabôr - Lousa",
+        "ORIG_FID" : 333
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1772999998950127,
+          41.167843999700892,
+          865.03800000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "Id" : 0,
+        "Name" : "Lousa - Mirandela - Lousa",
+        "ORIG_FID" : 335
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1748730003886294,
+          41.171549999732747,
+          836.5850000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "Id" : 0,
+        "Name" : "Lousa - Moncorvo - Maçores - Felgueiras - Moncorvo - Horta d...",
+        "ORIG_FID" : 336
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1431919999108118,
+          41.090203000368206,
+          389.07099999999627
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "Id" : 0,
+        "Name" : "Lousa - Moncorvo - V.N.Foz Côa - Horta da Vilariça - Lousa",
+        "ORIG_FID" : 337
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1747669999970185,
+          41.172022999961541,
+          833.74800000000687
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "Id" : 0,
+        "Name" : "Lousa - Parambos - Pombal - Amieiro - Samões - Lousa",
+        "ORIG_FID" : 338
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1763470000140046,
+          41.168306000321707,
+          819.3859999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "Id" : 0,
+        "Name" : "Lousa - Samões - Trindade - Junqueira - Horta da Vilariça - ...",
+        "ORIG_FID" : 339
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1759850004074224,
+          41.170238000383449,
+          837.04499999999825
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "Id" : 0,
+        "Name" : "Lousa - São João da Pesqueira - Lousa",
+        "ORIG_FID" : 340
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.177385000217555,
+          41.166654999728507,
+          814.62300000000687
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "Id" : 0,
+        "Name" : "Lousa - Trindade - Santa Justa - Eucísia - Junqueira - Horta...",
+        "ORIG_FID" : 341
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1762229996916176,
+          41.170104999646071,
+          836.06100000000151
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "Id" : 0,
+        "Name" : "Lousa - Tua - Lousa",
+        "ORIG_FID" : 342
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1760960001302578,
+          41.170152000014866,
+          838.09299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "Id" : 0,
+        "Name" : "Lousa - VilaFlor - Carrazeda - Lousa",
+        "ORIG_FID" : 343
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.053164000418235,
+          41.174079000345614,
+          418.02599999999802
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "Id" : 0,
+        "Name" : "Moncorvo",
+        "ORIG_FID" : 344
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0531469996342935,
+          41.174205999907031,
+          403.12600000000384
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "Id" : 0,
+        "Name" : "Moncorvo-Barca D`Alva-Freixo de Espada à Cinta-Moncorvo",
+        "ORIG_FID" : 345
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2025369999824989,
+          41.111575000286109,
+          287.83000000000175
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 347
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2024090003750416,
+          41.111531000055663,
+          287.05599999999686
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 348
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2025729998439942,
+          41.111556000309236,
+          287.67299999999523
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 349
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2058629995777324,
+          41.11158399980178,
+          277.21499999999651
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "Id" : 0,
+        "Name" : "Mós",
+        "ORIG_FID" : 350
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2026449995670419,
+          41.11162099970943,
+          288.89699999999721
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "Id" : 0,
+        "Name" : "Mós - Mós",
+        "ORIG_FID" : 351
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2025899997286729,
+          41.111579999617334,
+          288.09200000000419
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "Id" : 0,
+        "Name" : "Mós - Mós",
+        "ORIG_FID" : 352
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2330060003266112,
+          41.098575999782611,
+          301.75599999999395
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "Id" : 0,
+        "Name" : "Murça",
+        "ORIG_FID" : 356
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2325980003973314,
+          41.098103999599971,
+          309.27300000000105
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "Id" : 0,
+        "Name" : "Murça",
+        "ORIG_FID" : 357
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2172480002949442,
+          41.089223000141374,
+          536.83199999999488
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "Id" : 0,
+        "Name" : "Murça",
+        "ORIG_FID" : 358
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1403080000141586,
+          41.093272999849091,
+          386.21099999999569
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "Id" : 0,
+        "Name" : "Museu côa",
+        "ORIG_FID" : 359
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2784339998291898,
+          41.103206000156831,
+          457.72400000000198
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "Id" : 0,
+        "Name" : "Numão",
+        "ORIG_FID" : 362
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1464140001059491,
+          41.082479000305682,
+          408.22800000000279
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "Id" : 0,
+        "Name" : "Parque Arqueológico do Vale do Côa",
+        "ORIG_FID" : 363
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2192700000104537,
+          41.067110000226364,
+          555.05800000000454
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "Id" : 0,
+        "Name" : "passeio ---",
+        "ORIG_FID" : 364
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.023775000415867,
+          41.082852000419564,
+          567.42500000000291
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "Id" : 0,
+        "Name" : "Passeio a Torre De Moncorvo 5—10—2019",
+        "ORIG_FID" : 365
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1551680000031297,
+          41.069361999756552,
+          425.92600000000675
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "Id" : 0,
+        "Name" : "passeio descuberta",
+        "ORIG_FID" : 366
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0238270001159435,
+          41.08287699977376,
+          576.17200000000594
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "Id" : 0,
+        "Name" : "Peredo dos Castelhanos - Urros",
+        "ORIG_FID" : 367
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2076269999860187,
+          41.134278999576225,
+          113.33699999999953
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "Id" : 0,
+        "Name" : "Pocinho",
+        "ORIG_FID" : 370
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1172270004256575,
+          41.118976999888673,
+          413.45200000000477
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "Id" : 0,
+        "Name" : "Pocinho",
+        "ORIG_FID" : 371
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1171109995729012,
+          41.131654999978309,
+          162.1079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "Id" : 0,
+        "Name" : "Pocinho, Douro, Côa, Foz Côa, Pocinho",
+        "ORIG_FID" : 374
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1052140004257467,
+          41.108811999674117,
+          244.22400000000198
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "Id" : 0,
+        "Name" : "Pocinho - Peredo dos Castelhanos",
+        "ORIG_FID" : 378
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1219000000849064,
+          41.130789999658816,
+          154.70799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "Id" : 0,
+        "Name" : "Pocinho station beach loop",
+        "ORIG_FID" : 380
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1235210001939322,
+          41.130425999959982,
+          140.94500000000698
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "Id" : 0,
+        "Name" : "Pocinho.T.Moncorvo.Lagoaça.Pocinho",
+        "ORIG_FID" : 381
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0495069999480506,
+          41.172361000260025,
+          405.21400000000722
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "Id" : 0,
+        "Name" : "Pocinho - Torre de Moncorvo",
+        "ORIG_FID" : 382
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1764100002212672,
+          41.169710000316286,
+          831.20799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "Id" : 0,
+        "Name" : "PR6 Torre de Moncorvo - Rota dos Sobreiros",
+        "ORIG_FID" : 386
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1361139999610828,
+          41.123436999617866,
+          190.02400000000489
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "Id" : 0,
+        "Name" : "PSS linha douro",
+        "ORIG_FID" : 387
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1037409999471492,
+          41.112522999936573,
+          193.83199999999488
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "Id" : 0,
+        "Name" : "Quinta",
+        "ORIG_FID" : 388
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.113004999980717,
+          41.079915999923514,
+          352.00800000000163
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "Id" : 0,
+        "Name" : "Quinta das Tulhas",
+        "ORIG_FID" : 389
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1135800004166185,
+          41.079978000084679,
+          348.63999999999942
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "Id" : 0,
+        "Name" : "Quinta das Tulhas",
+        "ORIG_FID" : 390
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1402879999911875,
+          41.08193000016945,
+          424.61199999999371
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "Id" : 0,
+        "Name" : "Quinta das Tulhas - Vila Nova de Foz Côa",
+        "ORIG_FID" : 392
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1115999999399833,
+          41.179320000117968,
+          123.08400000000256
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "Id" : 0,
+        "Name" : "Rota Alexandre - Douro e Foz do Sabor",
+        "ORIG_FID" : 394
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1833069999180452,
+          41.170877000173448,
+          777.20799999999872
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "Id" : 0,
+        "Name" : "Rota Dos Sobreiros (Lousa)",
+        "ORIG_FID" : 395
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1745170001593692,
+          41.043939000084833,
+          405.09299999999348
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "Id" : 0,
+        "Name" : "Santo Amaro - Muxagata",
+        "ORIG_FID" : 398
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0589140002808222,
+          41.175131000295494,
+          361.0109999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "Id" : 0,
+        "Name" : "Segunda Maratona Terra do Ferro",
+        "ORIG_FID" : 399
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0590739995653848,
+          41.174622000205204,
+          427.05199999999604
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "Id" : 0,
+        "Name" : "segunda maratona torre de moncorvo(meia maratona)",
+        "ORIG_FID" : 400
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2631130001647648,
+          41.122597999598042,
+          463.5170000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "Id" : 0,
+        "Name" : "Seixas",
+        "ORIG_FID" : 401
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2633830000253852,
+          41.193744999831949,
+          740.76399999999558
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "Id" : 0,
+        "Name" : "Seixo de Anciães",
+        "ORIG_FID" : 402
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1427019997973957,
+          41.092244000060589,
+          436.06600000000617
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo",
+        "ORIG_FID" : 403
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1618400001158875,
+          41.060839999766245,
+          493.1820000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo",
+        "ORIG_FID" : 404
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1426880000511233,
+          41.0921999998302,
+          380.61100000000442
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo",
+        "ORIG_FID" : 405
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1236630004470385,
+          41.130170999891789,
+          196.00500000000466
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo - Pocinho",
+        "ORIG_FID" : 407
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1875840002014115,
+          41.067771000131586,
+          617.02899999999499
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "Id" : 0,
+        "Name" : "Senhora do Amparo - Vila Nova de Foz Côa",
+        "ORIG_FID" : 408
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0940419996385344,
+          41.154849000281217,
+          345.57600000000093
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "Id" : 0,
+        "Name" : "Sequeiros",
+        "ORIG_FID" : 409
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1089960003650958,
+          41.172858999843015,
+          151.83100000000559
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "Id" : 0,
+        "Name" : "Sequeiros - Foz do Sabor",
+        "ORIG_FID" : 410
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2500589998229543,
+          41.095125999865047,
+          667.07799999999406
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "Id" : 0,
+        "Name" : "TALEFE - - PELITEIRO 680,35 BOLEMBREANO - SEIXAS",
+        "ORIG_FID" : 411
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2486080003588995,
+          41.126232999953061,
+          605.07499999999709
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "Id" : 0,
+        "Name" : "TALEFE - - S MARTINHO 640,93 BOLEMBREANO - SEIXAS",
+        "ORIG_FID" : 412
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0589639998886469,
+          41.175114000410815,
+          379.03599999999278
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "Id" : 0,
+        "Name" : "Terra do Ferro'15 (Portugal)",
+        "ORIG_FID" : 413
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.221641999678468,
+          41.069720000078007,
+          557.40799999999581
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "Id" : 0,
+        "Name" : "Terrenos agricolas - Freixo de Numão",
+        "ORIG_FID" : 414
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.012516000113294,
+          41.15456399972885,
+          650.0399999999936
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "Id" : 0,
+        "Name" : "tmoncorvo",
+        "ORIG_FID" : 415
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0512959997105895,
+          41.171480000101951,
+          427.86999999999534
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 416
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0540629996077087,
+          41.175578000224561,
+          387.09900000000198
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 417
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0594919999558101,
+          41.175992999577318,
+          411.64400000000023
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 418
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.055615000132093,
+          41.180301000390898,
+          337.94700000000012
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 419
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0511700001953272,
+          41.171351999595174,
+          424.01300000000629
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 420
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0592749998413069,
+          41.174914000180991,
+          357.68799999999464
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 421
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0526469999590518,
+          41.173692999632294,
+          406.19500000000698
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 422
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0492250004333528,
+          41.174978999581242,
+          321.33199999999488
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo+GR36+Ecopista Sabor",
+        "ORIG_FID" : 424
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0781190000917604,
+          41.106273000398687,
+          478.32000000000698
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Peredo dos Castelhanos",
+        "ORIG_FID" : 426
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1143340001139563,
+          41.132313999791336,
+          203.05499999999302
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Pocinho",
+        "ORIG_FID" : 427
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0896719995631088,
+          41.224592999667266,
+          146.97100000000501
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Quinta da Silveira",
+        "ORIG_FID" : 429
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.052928000326915,
+          41.173102000257131,
+          403.09399999999732
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Rota da Judiaria",
+        "ORIG_FID" : 431
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0512599998490941,
+          41.171390999595019,
+          429.09500000000116
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Rota do Lobo",
+        "ORIG_FID" : 432
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0526870000049939,
+          41.173757999931809,
+          406.62300000000687
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Rota do Património",
+        "ORIG_FID" : 433
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.9826380000436075,
+          41.182787999966251,
+          666.0109999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Santa Bárbara",
+        "ORIG_FID" : 434
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1402560003141389,
+          41.081924999938849,
+          416.61699999999837
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo - Vila Nova de Foz Côa",
+        "ORIG_FID" : 436
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1771280000571096,
+          41.164141999853484,
+          796.04300000000512
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "Id" : 0,
+        "Name" : "Tras Os Montes (2019)",
+        "ORIG_FID" : 440
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.2313870003097804,
+          41.099851000123635,
+          255.02199999999721
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "Id" : 0,
+        "Name" : "Trepada corta desde Murça, Foz Coa, Portugal",
+        "ORIG_FID" : 441
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1379360003460874,
+          41.082350999798848,
+          422.6079999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa",
+        "ORIG_FID" : 443
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1475640000784892,
+          41.080971000011687,
+          419.26300000000629
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "Id" : 0,
+        "Name" : "Visita ao Rio Foz Côa",
+        "ORIG_FID" : 449
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1429630001422879,
+          41.086563999828797,
+          408.7219999999943
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "Id" : 0,
+        "Name" : "Volta da inchada :-)) 2012-10-27 13:15:15 Semana",
+        "ORIG_FID" : 451
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0494789995561291,
+          41.172399000213716,
+          416.96600000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "Id" : 0,
+        "Name" : "1/11/19",
+        "ORIG_FID" : 452
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0021670004067005,
+          41.034610999797849,
+          148.19199999999546
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "Id" : 0,
+        "Name" : "2/11/19",
+        "ORIG_FID" : 454
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1762609996453648,
+          41.169947999600538,
+          825.95900000000256
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "Id" : 0,
+        "Name" : "3/11/19",
+        "ORIG_FID" : 457
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1414430001942719,
+          41.084158000391483,
+          411.15200000000186
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "Id" : 0,
+        "Name" : "3 horas Resistência BTT",
+        "ORIG_FID" : 459
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.142351999844891,
+          41.132303000183356,
+          188.68700000000536
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "Id" : 0,
+        "Name" : "Vila Nova de Foz Côa - Peso de Regua",
+        "ORIG_FID" : 461
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1428609999351238,
+          41.132042999884618,
+          159.02300000000105
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "Id" : 0,
+        "Name" : "ribeira do Douro alto",
+        "ORIG_FID" : 462
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0712930000718757,
+          41.140457000290382,
+          403.12099999999919
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "Id" : 0,
+        "Name" : "Açoreira - Sequeiros",
+        "ORIG_FID" : 463
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.0728350001351146,
+          41.169479999602345,
+          369.35499999999593
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "Id" : 0,
+        "Name" : "Torre de Moncorvo",
+        "ORIG_FID" : 464
+      }
+    }
+  ]
+}
