@@ -180,7 +180,7 @@ var flickr = L.esri.Cluster.featureLayer({
       });
     },
     pointToLayer: function (geojson, latlng) {
-      var flickrsymbol = 'imagens/flickr.png';
+      var flickrsymbol = 'Imagens/flickr.png';
       var mapIcon = L.icon({
         iconUrl: flickrsymbol,
         iconSize: [20, 20]
