@@ -277,7 +277,7 @@ var legenda8 = L.control({position: 'bottomright'});
 
 legenda1.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'legend1');
-    div.innerHTML += 'Região Demarcada do Douro     ' + '<img style="vertical-align:middle" src="imagens/legenda1.png">'
+    div.innerHTML += 'Região Demarcada do Douro     ' + '<img style="vertical-align:middle" src="Imagens/legenda1.png">'
     return div;
 };
 legenda1.addTo(map);
@@ -285,7 +285,7 @@ legenda1.addTo(map);
 var legenda2 = L.control({position: 'bottomright'});
 legenda2.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'legend2');
-  div.innerHTML += 'Fotografias do Flickr     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="imagens/flickr_min.png">'
+  div.innerHTML += 'Fotografias do Flickr     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="Imagens/flickr_min.png">'
   return div;
 };
 legenda2.addTo(map);
@@ -293,7 +293,7 @@ legenda2.addTo(map);
 var legenda3 = L.control({position: 'bottomright'});
 legenda3.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'legend3');
-  div.innerHTML += 'Localização de uma Geocache     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="imagens/geocaching_min.png">'
+  div.innerHTML += 'Localização de uma Geocache     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="Imagens/geocaching_min.png">'
   return div;
 };
 legenda3.addTo(map);
@@ -315,21 +315,21 @@ legenda3.addTo(map);
 var legenda6 = L.control({position: 'bottomright'});
 legenda6.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'legend6');
-  div.innerHTML += 'Percursos pedestres realizados pelos utilizadores do Wikiloc     ' + '<img style="vertical-align:middle" src="imagens/legenda6.png">'
+  div.innerHTML += 'Percursos pedestres realizados pelos utilizadores do Wikiloc     ' + '<img style="vertical-align:middle" src="Imagens/legenda6.png">'
   return div;
 };
 
 var legenda7 = L.control({position: 'bottomright'});
 legenda7.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'legend7');
-  div.innerHTML += 'Pontos de Partida dos percursos do Wikiloc     ' + '<img style="vertical-align:middle" src="imagens/legenda7.png">'
+  div.innerHTML += 'Pontos de Partida dos percursos do Wikiloc     ' + '<img style="vertical-align:middle" src="Imagens/legenda7.png">'
   return div;
 };
 
 var legenda8 = L.control({position: 'bottomright'});
 legenda8.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'legend8');
-  div.innerHTML +=  'Pontos de Partida dos percursos do Chegada     ' + '<img style="vertical-align:middle" src="imagens/legenda8.png">'
+  div.innerHTML +=  'Pontos de Partida dos percursos do Chegada     ' + '<img style="vertical-align:middle" src="Imagens/legenda8.png">'
   return div;
 };
 
