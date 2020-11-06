@@ -260,3 +260,175 @@ var overlayMaps = {
 L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+//legenda-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+var legenda1 = L.control({position: 'bottomright'});
+var legenda2 = L.control({position: 'bottomright'});
+var legenda3 = L.control({position: 'bottomright'});
+//var legenda4 = L.control({position: 'bottomright'});
+//var legenda5 = L.control({position: 'bottomright'});
+var legenda6 = L.control({position: 'bottomright'});
+var legenda7 = L.control({position: 'bottomright'});
+var legenda8 = L.control({position: 'bottomright'});
+
+//configuração das legendas---------------------------------------------------
+
+legenda1.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'legend1');
+    div.innerHTML += 'Região Demarcada do Douro     ' + '<img style="vertical-align:middle" src="imagens/legenda1.png">'
+    return div;
+};
+legenda1.addTo(map);
+
+var legenda2 = L.control({position: 'bottomright'});
+legenda2.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'legend2');
+  div.innerHTML += 'Fotografias do Flickr     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="imagens/flickr_min.png">'
+  return div;
+};
+legenda2.addTo(map);
+
+var legenda3 = L.control({position: 'bottomright'});
+legenda3.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'legend3');
+  div.innerHTML += 'Localização de uma Geocache     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="imagens/geocaching_min.png">'
+  return div;
+};
+legenda3.addTo(map);
+
+//var legenda4 = L.control({position: 'bottomright'});
+//legenda4.onAdd = function (map) {
+//  var div = L.DomUtil.create('div', 'legend4');
+//  div.innerHTML +=  '<img>'   +  'Heatmap com os dados do Flickr     ' + '<br>'
+//  return div;
+//};
+
+//var legenda5 = L.control({position: 'bottomright'});
+//legenda5.onAdd = function (map) {
+//  var div = L.DomUtil.create('div', 'legend5');
+//  div.innerHTML +=  '<img>'   +  'Heatmap com os dados do Geocaching     ' + '<br>'
+//  return div;
+//};
+
+var legenda6 = L.control({position: 'bottomright'});
+legenda6.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'legend6');
+  div.innerHTML += 'Percursos pedestres realizados pelos utilizadores do Wikiloc     ' + '<img style="vertical-align:middle" src="imagens/legenda6.png">'
+  return div;
+};
+
+var legenda7 = L.control({position: 'bottomright'});
+legenda7.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'legend7');
+  div.innerHTML += 'Pontos de Partida dos percursos do Wikiloc     ' + '<img style="vertical-align:middle" src="imagens/legenda7.png">'
+  return div;
+};
+
+var legenda8 = L.control({position: 'bottomright'});
+legenda8.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'legend8');
+  div.innerHTML +=  'Pontos de Partida dos percursos do Chegada     ' + '<img style="vertical-align:middle" src="imagens/legenda8.png">'
+  return div;
+};
+
+//adicionar e retirar a legenda---------------------------------------------------
+
+//legenda1
+map.on('overlayadd', function (eventLayer) {
+  if (eventLayer.name === 'Região Demarcada do Douro') {
+    legenda1.addTo(this); 
+  }else {  
+}});
+map.on('overlayremove', function (eventLayer) {
+  if (eventLayer.name === 'Região Demarcada do Douro') {
+    this.removeControl(legenda1); 
+  }else {
+}});
+
+//legenda2
+map.on('overlayadd', function (eventLayer2) {
+if (eventLayer2.name === 'Flickr') {
+  legenda2.addTo(this); 
+}else { 
+}
+});
+map.on('overlayremove', function (eventLayer2) {
+if (eventLayer2.name === 'Flickr') {
+  this.removeControl(legenda2); 
+}else {
+}});
+
+//legenda3
+map.on('overlayadd', function (eventLayer3) {
+if (eventLayer3.name === 'Geocaching') {
+  legenda3.addTo(this); 
+}else { 
+}
+});
+map.on('overlayremove', function (eventLayer3) {
+if (eventLayer3.name === 'Geocaching') {
+  this.removeControl(legenda3); 
+}else {
+}});
+
+//legenda4
+//map.on('overlayadd', function (eventLayer4) {
+//  if (eventLayer4.name === 'Flickr: heatmap') {
+//    legenda4.addTo(this); 
+//  }else { 
+//}});
+//map.on('overlayremove', function (eventLayer4) {
+//  if (eventLayer4.name === 'Flickr: heatmap') {
+//    this.removeControl(legenda4); 
+//  }else {
+//}});
+
+//legenda5
+//map.on('overlayadd', function (eventLayer5) {
+//  if (eventLayer5.name === 'Geocaching: heatmap') {
+//    legenda5.addTo(this); 
+//  }else { 
+//}});
+//map.on('overlayremove', function (eventLayer5) {
+//  if (eventLayer5.name === 'Geocaching: heatmap') {
+//    this.removeControl(legenda5); 
+//  }else {
+//}});
+
+//legenda6
+map.on('overlayadd', function (eventLayer6) {
+  if (eventLayer6.name === 'Trilhos Wikiloc') {
+    legenda6.addTo(this); 
+  }else { 
+}});
+map.on('overlayremove', function (eventLayer6) {
+  if (eventLayer6.name === 'Trilhos Wikiloc') {
+    this.removeControl(legenda6); 
+  }else {
+}});
+
+//legenda7
+map.on('overlayadd', function (eventLayer7) {
+  if (eventLayer7.name === 'Pontos de partida Wikiloc') {
+    legenda7.addTo(this); 
+  }else { 
+}});
+map.on('overlayremove', function (eventLayer7) {
+  if (eventLayer7.name === 'Pontos de partida Wikiloc') {
+    this.removeControl(legenda7); 
+  }else {
+}});
+
+//legenda8
+map.on('overlayadd', function (eventLayer8) {
+  if (eventLayer8.name === 'Pontos de chegada Wikiloc') {
+    legenda8.addTo(this); 
+  }else { 
+}});
+map.on('overlayremove', function (eventLayer8) {
+  if (eventLayer8.name === 'Pontos de chegada Wikiloc') {
+    this.removeControl(legenda8); 
+  }else {
+}});
