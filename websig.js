@@ -1,7 +1,7 @@
 window.addEventListener("message", receiveMessage, false);
       var map = L.map('map', {
-          center: [41.225895, -7.3329045],
-          zoom: 10
+          center: [41.145459, -7.121971],
+          zoom: 9
       });
 
 L.control.scale().addTo(map);
