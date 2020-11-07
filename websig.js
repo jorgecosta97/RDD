@@ -152,7 +152,7 @@ var geocaching = L.esri.Cluster.featureLayer({
         icon: mapIcon
       });
     }
-}).addTo(map);
+});
 
 geocaching.bindPopup(function (layer) {
     return L.Util.template('<a href = https://www.geocaching.com/geocache/{Name} target="_blank"> Geocache </a', layer.feature.properties);
@@ -249,11 +249,10 @@ var overlayMaps = {
     "Região Demarcada do Douro": RDD_layer,
     "Flickr": flickr,
     "Flickr: heatmap": heatmap_flickr,
-    "Geocaching": geocaching,
-    "Geocaching: heatmap": heatmap_geocaching,
     "Trilhos Wikiloc": wikiloc_total,
     "Pontos de partida Wikiloc": pontos_partida,
-    "Pontos de chegada Wikiloc": pontos_chegada
+    "Pontos de chegada Wikiloc": pontos_chegada,
+    "Geocaching": geocaching
 };
 
 
