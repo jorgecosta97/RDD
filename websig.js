@@ -295,7 +295,7 @@ legenda3.onAdd = function (map) {
   div.innerHTML += 'Localização de uma Geocache     ' + '<img style="vertical-align:middle, height;17px, width:17px" src="Imagens/geocaching_min.png">'
   return div;
 };
-legenda3.addTo(map);
+
 
 //var legenda4 = L.control({position: 'bottomright'});
 //legenda4.onAdd = function (map) {
