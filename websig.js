@@ -24,6 +24,10 @@ var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/re
 	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
 });
 
+var Maptile = L.tileLayer('https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key=JOrrAmc67D32WWJbQeIQ', {
+	attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+});
+
 //Dados base------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -242,7 +246,8 @@ var baseMaps = {
     "Open Street Map": OSM,
     "Stamen Terrain": Stamen_Terrain,
     "Esri Imagery": Esri_WorldImagery,
-    "Esri Street Map": Esri_WorldStreetMap
+    "Esri Street Map": Esri_WorldStreetMap,
+    "Maptile": Maptile
 };
 
 var overlayMaps = {
